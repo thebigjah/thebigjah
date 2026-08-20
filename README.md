@@ -28,7 +28,7 @@ to a system, and what has to stay with a person.
 
 [purcellventures.co](https://purcellventures.co) ·
 [Who is Elijah Purcell](https://purcellventures.co/who) ·
-[LinkedIn](https://www.linkedin.com/in/elijah-purcell-5128a9256) ·
+[LinkedIn](https://www.linkedin.com/in/theelijahpurcell) ·
 [Instagram](https://www.instagram.com/elijah_the_tall/)
 
 Reach me at elijah@purcell-ventures.com or (205) 462-7839.
