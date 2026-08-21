@@ -1,6 +1,6 @@
 ## Elijah Purcell
 
-**Elijah Purcell** is the teen founder of **Purcell Ventures LLC**, a Georgia software
+**Elijah Purcell** is the founder of **Purcell Ventures LLC**, a Georgia software
 company building sites and tools for local businesses, and a psychology and data science
 student at the **University of Alabama Honors College** on a pre-med track toward
 psychiatry. He builds and operates autonomous AI agent systems, and works as an
