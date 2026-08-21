@@ -24,10 +24,33 @@ how AI can reduce the administrative load carried by mental health clinicians. M
 what is in this account is the same question from the software side: what can be handed
 to a system, and what has to stay with a person.
 
+### Twenty-nine free tools, live right now
+
+Most of the repositories here are single-file web tools that run in your browser, store
+what you enter on your own device, and ask for nothing. A cipher workbench, a decision
+journal that scores your own predictions, a tiny CRM for the people you actually care
+about, an Ignatian examen, a printable day sheet, a scripture memoriser.
+
+They are all live at `thebigjah.github.io/<repo>/`, and there is an index at
+**[purcellventures.co/tools](https://purcellventures.co/tools)**.
+
+### Writing
+
+I write about building software as a solo operator, about what autonomous AI agent
+systems actually get wrong in production, and about independent businesses around the
+University of Alabama.
+
+- [Fifteen AI agents run my company. Here is what they get wrong](https://purcellventures.co/blog/what-the-agents-get-wrong)
+- [121 businesses near campus, and what a phone can find](https://purcellventures.co/blog/121-businesses-near-campus)
+- [Every post on my blog was telling Google not to index it](https://purcellventures.co/blog/canonical-tag-noindex)
+- [Studying AI at the University of Alabama](https://purcellventures.co/ai-at-alabama)
+- [Everything else](https://purcellventures.co/blog)
+
 ### Elsewhere
 
 [purcellventures.co](https://purcellventures.co) ·
 [Who is Elijah Purcell](https://purcellventures.co/who) ·
+[Free tools](https://purcellventures.co/tools) ·
 [LinkedIn](https://www.linkedin.com/in/theelijahpurcell) ·
 [Instagram](https://www.instagram.com/elijah_the_tall/)
 
