@@ -46,6 +46,13 @@ in production, and about independent businesses around the University of Alabama
 - [Studying AI at the University of Alabama](https://purcellventures.co/ai-at-alabama)
 - [Everything else](https://purcellventures.co/blog), also on [Medium](https://medium.com/@elijahpurcell)
 
+### Research and guides
+
+- [Alabama small business websites, November 2026](https://purcellventures.co/research/alabama-small-business-websites-2026): 1,176 sites checked for whether Google and AI assistants can read them, with the method and the aggregate data
+- [AI visibility check](https://purcellventures.co/ai-visibility-check): a free tool that tells an owner whether AI search can read their site
+- [AI consulting in Alabama](https://purcellventures.co/ai-consulting), [AI automation](https://purcellventures.co/ai-automation) and [AI for small business by trade](https://purcellventures.co/ai-for)
+- [AI glossary for small business owners](https://purcellventures.co/ai-glossary) and [AI in small business statistics](https://purcellventures.co/ai-small-business-statistics)
+
 ### Elsewhere
 
 [elijahpurcell.com](https://elijahpurcell.com) ·
